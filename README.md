@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @isabella-capachietti
-- 🌎 I’m interested in ... using data to help save our planet.
-- 📊 I’m currently ... strengthening my skills and searching for a new impactful role! 
+- 🌎 My passion is using data science to help save our planet.
+- 📊 I’m currently working in energy efficiency to manage the demand of our electric grid.
 
 <!---
 isabella-capachietti/isabella-capachietti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
